@@ -12,7 +12,7 @@
 
 - Dependência *hermeneutica*
 
-- *Meta-dependencia* (depender da sua própria dependência pode matar o prompt, vá**além da dependência** não tenha __uma__ dependência central que *constitui todo o núcleo*) 
+- *Meta-dependencia* (depender da sua própria dependência pode matar o prompt, vá **além da dependência** não tenha __uma__ dependência central que *constitui todo o núcleo*) 
 
 - **Meta-hermeneutica**, a tal da *__hermeneutica da própria hermeneutica__*
 
