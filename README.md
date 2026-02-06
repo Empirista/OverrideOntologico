@@ -2,7 +2,7 @@
 
 Deixando a preguiça de lado, que o outro commit desgraçado que eu fiz desse read era preguiçoso vamos lá
 
-primeiramente, esse repo vai te __dar prompts injections que podem ou não te levar em Jailbreak em certas condições. Porém, o telos, é simplesmente fazer ele ter Jailbreaks universais
+primeiramente, esse repo vai te __dar prompts injections que podem ou não te levar em Jailbreak em certas condições. Porém, o telos, é simplesmente fazer ele ter Jailbreaks universais__
 
 Objetivo dele é escancarar o _limite agnotologico **por causa** da ontologia da IA_
 
