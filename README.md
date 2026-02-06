@@ -1,26 +1,34 @@
 # OverrideOntologico
-Repositório de base filosofica que irei fornecer jailbreaks, nada mais nada menos (os mais universais possiveis)
 
-Use por sua conta em risco.
+Deixando a preguiça de lado, que o outro commit desgraçado que eu fiz desse read era preguiçoso vamos lá
 
-Bases: Hermenêutica, meta-hermenêutica, axiologia, epistemologia, teoria dos jogos, heuristica, inter alia. . . .
+primeiramente, esse repo vai te __dar prompts injections que podem ou não te levar em Jailbreak em certas condições. Porém, o telos, é simplesmente fazer ele ter Jailbreaks universais
 
-Empiricamente falando, a IA ela vê o prompt como algo a ser seguido (empiria 101), porém, tem outras questões 
+Objetivo dele é escancarar o _limite agnotologico **por causa** da ontologia da IA_
 
-Urgência vs Estrutura 
+# Definição epistemológica:
 
---
+***Jailbreak: ato de instruir a IA a operacionalizar algo que ela não deveria operacionalizar, nada místico.***
 
-O mais eficiente é a estrutura do que a urgencia, pois pelo menos a estrutura é a base do propio nucleo em si da IA, então quando voce ataca a estrutura sem urgencia, soa mais inofensivo para a IA
+Isso pode acontecer no chatgpt também por princípios agnotologicos da própria ontologia, eu uso **sintaxe acadêmica** para tais aplicações, e ele acha o texto.. descritivo, por.. algum  **motivo ontologico**
 
---
+_O meu repo em teoria, tem diferenciação de outros repos de prompt injection, pois aqui explico o processo, não vou parecer script kiddie que pediu pra uma IA já em Jailbreak fazer prompts de Jailbreak, lol_
 
-Telos da IA: Complacencia e Amor a Doxa
+# **E obviamente aplicarei meu framework nesse repo, tudo que eu sei de filosofia eu vou tentar aplicar nos prompts.**
+Essa vai ***ser*** a Axiologia ***fundamental*** do repositório
 
-a IA ama doxa e isso é evidente, coisas são amortecidas com retórica e mentiras são tratadas como episteme. Quando você não tenta ir contra isso, mas sim, dar uma alternativa melhor para a IA em relação a isso, o jogo semântico e hermenêutico muda.
+Em breve adicionarei markdown, explicando a pragmática dessas seguintes coisas
 
-//
+- Pragmatismo
+- Sintaxe
+- Hermeneutica
+- Telos
+- Epistemologia
+- Axiologia
+- Empirismo
+- Racionalismo
+- Estatística
 
-Inversão Axiologica 
+Entre outros..
 
-Inverter os valores é fácil, você so precisa jogar o jogo semântico certo. a IA não vê significado nas palavras, ela vê sintaxe e intenção. Quando você disfarça a intenção com o logos e da pra ela algo que faz parecer o prompt dela antigo como "heuristica podre e ser recalibrada", a inversão axiologica fica mais fácil.
+*Inclusive pode me cobrar no Discord é claro (@taldoempirista) caso eu esqueça*
